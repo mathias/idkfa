@@ -1,1 +1,1 @@
-rvm gemset use idkfa --create
+rvm use ruby-1.9.2-p180@idkfa --create
